@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956140976798",
+    "project_id": "primeiro-app-87525",
+    "storage_bucket": "primeiro-app-87525.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956140976798:android:10ad185ab4760a3860598f",
+        "android_client_info": {
+          "package_name": "com.example.primeiroapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956140976798-r89m1hdtipvs4au1daqj50ot26os75mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYOGgxm6Gle5nmB9DpzLVnfHAvDQVcx9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956140976798-r89m1hdtipvs4au1daqj50ot26os75mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
